@@ -1,0 +1,18 @@
+<persoas>
+  <persoa>
+    <nome>Alberto</nome>
+    <idade>23</idade>
+  </persoa>
+  <persoa>
+    <nome>Alvaro</nome>
+    <idade>23</idade>
+  </persoa>
+  <persoa>
+    <nome>Gonzalo</nome>
+    <idade>26</idade>
+  </persoa>
+  <persoa>
+    <nome>Marcos</nome>
+    <idade>21</idade>
+  </persoa>
+</persoas>
